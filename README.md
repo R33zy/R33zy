@@ -9,6 +9,6 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![standard (2)](https://github.com/R33zy/R33zy/assets/72768410/054c3cfb-3b8b-4a67-bbe5-1a2c53a9f779)
 
-### For more Informations Check my fakecrime bio!
+### For more Informations Check my custom Bio!
 
 https://fakecrime.bio/@ackerman
