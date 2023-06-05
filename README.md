@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Currently Havin most of my Projects Private cuz of Testing some Stuff.
 -->
-![standard](https://github.com/R33zy/R33zy/assets/72768410/66184360-3ab8-43c4-8725-8ae208a3066b)
+
+![Uploading demon-slayer-kimetsu.gif…]()
+![standard (2)](https://github.com/R33zy/R33zy/assets/72768410/054c3cfb-3b8b-4a67-bbe5-1a2c53a9f779)
