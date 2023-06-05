@@ -1,4 +1,4 @@
-### 👋 Currently Having most of my Projects Private cuz of Testing some Stuff.
+### 👋 Sup. Currently Having most of my Projects Private cuz of Testing some Stuff.
 
 <!--
 **R33zy/R33zy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
