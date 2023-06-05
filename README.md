@@ -1,6 +1,6 @@
 ### 👋 Sup. Currently Having most of my Projects Private cuz of Testing some Stuff.
 
-<h2> 🚀 &nbsp;Im working with</h2>
+<h2>  &nbsp;I am working with:</h2>
 <p align="left">
   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
